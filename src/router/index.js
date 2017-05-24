@@ -10,6 +10,10 @@ export default new Router({
       path: '/',
       name: 'Home',
       component: Home
+    },{
+      path: '/hello',
+      name: 'Hello',
+      component: resolve => require(['@/components/Hello.vue'], resolve)
     }
   ]
 })
