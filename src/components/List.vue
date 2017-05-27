@@ -4,6 +4,25 @@
 			<li>canvas</li>
 			<li>react</li>
 			<li>nodejs</li>
+			<li>typescript</li>
+			<li>d3</li>
+			<li>weex</li>
+		</ul>
+		<ul>
+			<li>fullpage</li>
+			<li>chart</li>
+			<li>dynamic</li>
+			<li>game</li>
+			<li>视差</li>
+		</ul>
+		<ul>
+			<li>select</li>
+			<li>input</li>
+		</ul>
+		<ul>
+			<li>wave cube 翻转</li>
+			<li>圆片</li>
+			<li>波浪</li>
 		</ul>
 	</div>
 </template>

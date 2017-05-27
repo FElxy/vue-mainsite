@@ -14,6 +14,15 @@ export default new Router({
       path: '/hello',
       name: 'Hello',
       component: resolve => require(['@/components/Hello.vue'], resolve)
+    },{
+      path: '/canvas',
+      name: 'canvas',
+      component: resolve => require(['@/views/canvas/index.vue'], resolve),
+      children:[{
+        path: '/canvas/basic',
+        name: 'canvasBasic',
+        component: resolve => require(['@/views/canvas/basic.vue'], resolve)
+      }]
     }
   ]
 })
