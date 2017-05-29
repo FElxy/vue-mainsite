@@ -24,6 +24,9 @@
 			<li>圆片</li>
 			<li>波浪</li>
 		</ul>
+		<ul>
+			<li>负边距</li>
+		</ul>
 	</div>
 </template>
 <script></script>
