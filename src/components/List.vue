@@ -28,6 +28,7 @@
 			<li>负边距</li>
 			<li>vue生命周期</li>
 			<li>设计模式</li>
+			<li>settimeout 0</li>
 		</ul>
 	</div>
 </template>
