@@ -30,6 +30,11 @@
 			<li>设计模式</li>
 			<li>settimeout 0</li>
 		</ul>
+		<ul>
+			<li>作用域</li>
+			<li>原型</li>
+			<li>闭包</li>
+		</ul>
 	</div>
 </template>
 <script></script>
